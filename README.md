@@ -1,6 +1,6 @@
 # 💼 Diwakar Mishra - New Portfolio Website
 
-Welcome to the source code repository for my personal developer portfolio website — [diwakarmishra2905.vercel.app]((https://portfolio2-five-jet.vercel.app/)).
+Welcome to the source code repository for my personal developer portfolio website — [https://portfolio2-five-jet.vercel.app/]
 
 This website serves as a digital portfolio to showcase my skills, projects, experience, and contact information. Built with modern web technologies, it reflects my passion for development and problem-solving.
 
@@ -64,7 +64,7 @@ A dark mode toggle is implemented using React state and Tailwind’s dark mode c
 
 Want to collaborate or just say hi?
 
-- Portfolio: [diwakarmishra2905.vercel.app]([https://portfolio2-five-jet.vercel.app/])
+- Portfolio: [https://portfolio2-five-jet.vercel.app/]
 - LinkedIn: [linkedin.com/in/diwakarmishra2905](https://linkedin.com/in/diwakarmishra2905)
 - Email: diwakarmishra2905@gmail.com
 
